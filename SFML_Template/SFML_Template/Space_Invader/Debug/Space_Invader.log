@@ -1,0 +1,101 @@
+﻿  Block.cpp
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\Block.cpp(20,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\Block.cpp(20,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Enemy.cpp
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\Enemy.cpp(26,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\Enemy.cpp(26,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\Enemy.cpp(31,29): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\Enemy.cpp(36,29): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Bullet.cpp
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\Bullet.cpp(14,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\Bullet.cpp(35,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\Bullet.cpp(40,29): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\Bullet.cpp(45,29): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\Bullet.cpp(50,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(341,21): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(362,21): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(367,23): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(386,22): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(388,23): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(408,21): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(410,22): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(427,72): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(427,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(442,104): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(442,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(455,21): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(475,22): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(483,22): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(491,22): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(499,21): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(505,22): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(526,21): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(531,22): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(560,21): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(567,23): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(577,23): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(586,22): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(593,22): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(599,21): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(604,21): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(618,21): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(635,22): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(641,21): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(647,21): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(653,21): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\main.cpp(42,6): warning C4101: 'iCurrentFrame': unreferenced local variable
+  PlayerShip.cpp
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\PlayerShip.cpp(49,30): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Space_Invader\src\PlayerShip.cpp(54,30): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  LINK : D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Debug\Space_Invader.exe not found or not built by the last incremental link; performing full link
+  Space_Invader.vcxproj -> D:\Downloads\IMAT1910 (2)\IMAT1910\SFML_Template\SFML_Template\Debug\Space_Invader.exe

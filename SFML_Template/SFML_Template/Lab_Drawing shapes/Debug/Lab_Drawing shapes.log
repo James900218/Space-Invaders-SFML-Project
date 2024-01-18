@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\jar09\Downloads\SFML_Template\SFML_Template\SFML_Template\Lab_Drawing shapes\main.cpp(68,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jar09\Downloads\SFML_Template\SFML_Template\SFML_Template\Lab_Drawing shapes\main.cpp(68,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Lab_Drawing shapes.vcxproj -> C:\Users\jar09\Downloads\SFML_Template\SFML_Template\SFML_Template\Debug\Lab_Drawing shapes.exe

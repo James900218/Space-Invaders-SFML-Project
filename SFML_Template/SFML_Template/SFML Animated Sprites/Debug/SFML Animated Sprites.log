@@ -1,0 +1,40 @@
+﻿  main.cpp
+C:\Users\jar09\Downloads\IMAT1910\SFML_Template\SFML_Template\SFML Animated Sprites\main.cpp(59,116): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\jar09\Downloads\IMAT1910\SFML_Template\SFML_Template\SFML Animated Sprites\main.cpp(59,99): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\jar09\Downloads\IMAT1910\SFML_Template\SFML_Template\SFML Animated Sprites\main.cpp(59,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\jar09\Downloads\IMAT1910\SFML_Template\SFML_Template\SFML Animated Sprites\main.cpp(59,46): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\jar09\Downloads\IMAT1910\SFML_Template\SFML_Template\SFML Animated Sprites\main.cpp(87,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jar09\Downloads\IMAT1910\SFML_Template\SFML_Template\SFML Animated Sprites\main.cpp(87,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML Animated Sprites.vcxproj -> C:\Users\jar09\Downloads\IMAT1910\SFML_Template\SFML_Template\Debug\SFML Animated Sprites.exe
